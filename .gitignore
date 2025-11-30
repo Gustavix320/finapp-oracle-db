@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.DS_Store
+
+# Backup de scripts
+*~
