@@ -2,7 +2,7 @@
 
 Este repositório contém **toda a modelagem em Oracle 21c XE** e o código **PL/SQL** do módulo de **títulos financeiros (contas a pagar e a receber)** do projeto **FINAPP**.
 
-> 🚧 **Status:** MVP em desenvolvimento
+ ** MVP em desenvolvimento
 
 ---
 
@@ -34,4 +34,5 @@ finapp-oracle-db/
 ├── dml/                # Inserts de teste (dados fake)
 │   └── carga_inicial_titulos.sql
 └── README.md
+
 
