@@ -59,9 +59,6 @@ finapp-oracle-db/
 │
 └── README.md
 
-├── dml/                # Inserts de teste (dados fake)
-│   └── carga_inicial_titulos.sql
-└── README.md
 
 
 
