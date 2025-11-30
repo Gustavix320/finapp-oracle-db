@@ -1,4 +1,4 @@
-# 💼 FINAPP Oracle DB – Módulo de Títulos Financeiros
+# FINAPP Oracle DB – Módulo de Títulos Financeiros
 
 Este repositório contém **toda a modelagem em Oracle 21c XE** e o código **PL/SQL** do módulo de **títulos financeiros (contas a pagar e a receber)** do projeto **FINAPP**.
 
@@ -6,7 +6,7 @@ Este repositório contém **toda a modelagem em Oracle 21c XE** e o código **PL
 
 ---
 
-## 🧱 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Oracle Database **21c XE**
 - Schema dedicado: **FIN_APP**
@@ -18,7 +18,7 @@ Este repositório contém **toda a modelagem em Oracle 21c XE** e o código **PL
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 Sugestão de organização (ajuste conforme sua pasta real):
 
@@ -34,3 +34,4 @@ finapp-oracle-db/
 ├── dml/                # Inserts de teste (dados fake)
 │   └── carga_inicial_titulos.sql
 └── README.md
+
